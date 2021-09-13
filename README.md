@@ -4,15 +4,15 @@ This dataset visualizes the history of the Summer Olympic Games from year 1896 t
 
 ## Attributes/Columns in the OLYMPICS dataset
  
-Year: This includes olympic years from 1896 to 2012  
-City: This includes the hosting city for Olympics for every Olympic year                
-Sport: This includes name of all the Sports for every Olympic Year                        
-Discipline: This includes disciplines/ type of event for every Sport in the Olympic year      
-Athlete: This includes names of athletes taking part in the events for every Sport 
-Country: This includes the country to which the athlete belongs
-Gender: This specifies the gender of the athlete                                     
-Event: This speicifies the particular event of a discipline the athlete paritcipated in 
-Medal: This includes medal won by an athlete for the particular event
+1. Year: This includes olympic years from 1896 to 2012  
+2. City: This includes the hosting city for Olympics for every Olympic year                
+3. Sport: This includes name of all the Sports for every Olympic Year                        
+4. Discipline: This includes disciplines/ type of event for every Sport in the Olympic year      
+5. Athlete: This includes names of athletes taking part in the events for every Sport 
+6. Country: This includes the country to which the athlete belongs
+7. Gender: This specifies the gender of the athlete                                     
+8. Event: This speicifies the particular event of a discipline the athlete paritcipated in 
+9. Medal: This includes medal won by an athlete for the particular event
 
 ## Data Analysis
 
