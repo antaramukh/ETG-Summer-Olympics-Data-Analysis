@@ -1,4 +1,4 @@
-# ETG_Summer_Olympics_Data_Analysis
+# ETG-Summer-Olympics-Data-Analysis
 
 ![68747470733a2f2f656c697465746563686e6f67726f75702e7370617965652e636f6d2f6c6f676f2e706e67](https://user-images.githubusercontent.com/82995717/133268077-b393e8e9-d12c-499e-86b7-282e210723bb.png)
 
